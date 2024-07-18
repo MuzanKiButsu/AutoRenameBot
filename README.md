@@ -1,4 +1,4 @@
-<img src="https://graph.org/file/1b524479c325e34763fd8.jpg" alt="logo" target="/blank">
+uh<img src="https://graph.org/file/1b524479c325e34763fd8.jpg" alt="logo" target="/blank">
 
 <h1 align="center">
  <b><a href="https://github.com/Codeflix-Bots/AutoRenameBot" target="/blank"> Auto Rename Bot </a></>
@@ -34,7 +34,7 @@
 <details><summary>Deploy To Koyeb</summary>
 <p>
 <br>                 
-<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/JishuDeveloper/Auto-Rename-Bot&branch=main&name=auto-rename-bot" >
+<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/MuzanKiButsu/AutoRenameBot&branch=main&name=Kuzan" >
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy">
 </a>
 </p>
